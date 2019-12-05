@@ -13,5 +13,5 @@
 
 <div>
   <h1>to check current working directory</h1>
-  <h3>cd</h3>
+  <h3>pwd</h3>
 </div>
